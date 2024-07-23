@@ -1,13 +1,13 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eblige01/ML_r/main)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eblige01/ML_py/main)
 
-This was used the tutorial found here: https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+This was used the tutorial found here: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/eblige01/ML_r/main
+https://mybinder.org/v2/gh/eblige01/ML_py/main
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
